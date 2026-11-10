@@ -49,5 +49,4 @@ UTS_Web_NIM_Nama/
 7. Mengganti data contoh dengan data pribadi dan menambahkan foto/media.
 
 ## Screenshot Hasil
-> (D:\Kuliah\projek au apaan\UTS Pemograman web Semester 3\Image\Screenshot 2026-11-10 154032.png)
-
+> [](https://github.com/drack6/UTS-Pemograman-Web-Semester-3/blob/main/Image/Screenshot%202026-11-10%20154032.png)
