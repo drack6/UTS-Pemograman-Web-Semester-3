@@ -50,4 +50,4 @@ UTS_Web_NIM_Nama/
 
 ## Screenshot Hasil
 > ![Tampilan Web](https://github.com/drack6/UTS-Pemograman-Web-Semester-3/blob/main/Image/Screenshot%202026-11-10%20154032.png)
-> ![Tampilan Web Dark Mode]
+> ![Tampilan Web Dark Mode](https://github.com/drack6/UTS-Pemograman-Web-Semester-3/blob/main/Image/Screenshot%202026-11-10%20161342.png)
