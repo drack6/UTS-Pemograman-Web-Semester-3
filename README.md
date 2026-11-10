@@ -49,4 +49,4 @@ UTS_Web_NIM_Nama/
 7. Mengganti data contoh dengan data pribadi dan menambahkan foto/media.
 
 ## Screenshot Hasil
-> [](https://github.com/drack6/UTS-Pemograman-Web-Semester-3/blob/main/Image/Screenshot%202026-11-10%20154032.png)
+> ![Tampilan Web](https://github.com/drack6/UTS-Pemograman-Web-Semester-3/blob/main/Image/Screenshot%202026-11-10%20154032.png)
